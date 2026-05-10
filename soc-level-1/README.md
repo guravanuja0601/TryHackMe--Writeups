@@ -19,8 +19,4 @@ Currently learning the TryHackMe SOC Analyst Level 1 Path to build practical Blu
 - Security Fundamentals
 - Threat Identification
 
-## Tools Used
-- Wireshark
-- Nmap
-- Linux
-- TryHackMe
+
