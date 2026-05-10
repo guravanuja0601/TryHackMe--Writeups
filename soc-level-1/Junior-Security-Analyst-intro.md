@@ -36,7 +36,7 @@ Learned how SOC analysts investigate alerts, identify suspicious IP addresses an
 
 ## Firewall IP Blocking
 
-![Firewall Block](firewall-block.jpg)
+![Firewall Block](firewall-ip-blocking.jpg)
 
 ## Task Completion
 
