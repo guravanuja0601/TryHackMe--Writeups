@@ -29,3 +29,15 @@ Learned how SOC analysts investigate alerts, identify suspicious IP addresses an
 ## IP Reputation Analysis
 
 ![IP Hunter](ip-hunter-analysis.jpg)
+
+## Event Escalation
+
+![Event Escalation](event-escalation.jpg)
+
+## Firewall IP Blocking
+
+![Firewall Block](firewall-block.jpg)
+
+## Task Completion
+
+![Task Completed](task-completed.jpg)
