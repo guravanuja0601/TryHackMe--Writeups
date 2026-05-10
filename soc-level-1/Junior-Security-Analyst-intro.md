@@ -21,3 +21,11 @@ Learned how SOC analysts investigate alerts, identify suspicious IP addresses an
 - Investigating malicious IP addresses
 - Understanding SOC workflows
 - Monitoring security alerts
+
+  ## SIEM Dashboard Investigation
+
+![SIEM Dashboard](siem-dashboard.jpg)
+
+## IP Reputation Analysis
+
+![IP Hunter](ip-hunter-analysis.jpg)
