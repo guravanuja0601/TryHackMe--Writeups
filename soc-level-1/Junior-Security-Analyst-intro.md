@@ -24,20 +24,20 @@ Learned how SOC analysts investigate alerts, identify suspicious IP addresses an
 
   ## SIEM Dashboard Investigation
 
-![SIEM Dashboard](siem-dashboard.jpg)
+![SIEM Dashboard](screenshots/siem-dashboard.jpg)
 
 ## IP Reputation Analysis
 
-![IP Hunter](ip-hunter-analysis.jpg)
+![IP Hunter](screenshots/ip-hunter-analysis.jpg)
 
 ## Event Escalation
 
-![Event Escalation](event-escalation.jpg)
+![Event Escalation](screenshots/event-escalation.jpg)
 
 ## Firewall IP Blocking
 
-![Firewall Block](firewall-ip-blocking.jpg)
+![Firewall Block](screenshots/firewall-ip-blocking.jpg)
 
 ## Task Completion
 
-![Task Completed](task-completed.jpg)
+![Task Completed](screenshots/task-completed.jpg)
