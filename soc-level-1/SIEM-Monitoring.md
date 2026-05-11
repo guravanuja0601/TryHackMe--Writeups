@@ -12,8 +12,8 @@ This lab focused on monitoring alerts in a SIEM dashboard and analyzing suspicio
 
 ## Screenshot
 
-![SIEM Dashboard](siem-alert-monitoring.jpg)
+![SIEM Dashboard](screenshots/siem-alert-monitoring.jpg)
 
-![Alert Triage](alert-triage-analysis.jpg)
+![Alert Triage](screenshots/alert-triage-analysis.jpg)
 
-![SOC Alert Triage](soc-alert-trigage.jpg)
+![SOC Alert Triage](screenshots/soc-alert-trigage.jpg)
