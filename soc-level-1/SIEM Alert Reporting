@@ -12,3 +12,13 @@ Investigated a phishing email alert in the TryHackMe SIEM platform. Analyzed sus
 
 ## Outcome
 Successfully identified the alert as a True Positive and completed the investigation process in a simulated SOC environment.
+## Screenshots
+
+### SIEM Dashboard
+![SIEM Dashboard](screenshots/alert-reporting-dashboard.jpg)
+
+### Phishing Alert Analysis
+![Phishing Alert](screenshots/phishing-alert-analysis.jpg)
+
+### Completed Task
+![Completed Task](screenshots/completed-task.jpg)
