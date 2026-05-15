@@ -19,6 +19,6 @@ Monitored phishing-related alerts and analyzed suspicious activities using the T
 
 ![Phishing Alert Report](screenshots/phishing-alert-report.jpg)
 
-![Alert Closed](screenshots/first-alert-closed.jpg)
+![Alert Closed](screenshots/alert-closed.jpg)
 
 
