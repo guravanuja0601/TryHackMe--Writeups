@@ -15,7 +15,7 @@ Monitored phishing-related alerts and analyzed suspicious activities using the T
 
 ![Alert Queue Dashboard](screenshots/alert-queue-dashboard.jpg)
 
-![Alert Verification](screenshots/alert-verdict-selection.jpg)
+![Alert Verification](screenshots/alert-verdict-screenshot.jpg)
 
 ![Phishing Alert Report](screenshots/phishing-alert-report.jpg)
 
